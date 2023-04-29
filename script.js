@@ -3,8 +3,5 @@ console.log('development')
 
 console.log('for gitHub')
 
-
-function sayHi() {
-     console.log("hi!")
-}
+// GitHub
 // fsdfg
