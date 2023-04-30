@@ -9,3 +9,5 @@ console.log('for gitHub')
 // addThird
 
 // addSixth
+
+let date = new Date();
