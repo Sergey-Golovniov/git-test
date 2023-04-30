@@ -7,6 +7,5 @@ console.log('for gitHub')
 // fsdfg
 // addnew
 // addThird
-// addFourth
-// addFifth
+
 // addSixth
