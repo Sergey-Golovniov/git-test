@@ -9,3 +9,4 @@ console.log('for gitHub')
 // addThird
 // addFourth
 // addFifth
+// addSixth
